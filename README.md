@@ -42,4 +42,3 @@ SubTrack is an ongoing project with the potential for further improvements:
 
 SubTrack represents a significant learning journey, integrating terminal functionality into a GUI application and applying OOP principles for robust data management. Continued updates and enhancements are planned to provide users with an even more streamlined and visually appealing subscription tracking experience.
 
-**Note:** SubTrack welcomes user feedback and suggestions for additional features, aiming to provide a valuable tool for subscription management. Stay tuned for updates and improvements!
